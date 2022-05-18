@@ -20,8 +20,8 @@ effectiveness of our network. The comparison results show that our method achiev
 state-of-the-art performance under the premise of ensuring the calculation speed.
 
 ## Prerequisites
--Python 3.6
--Anaconda
--Pytorch 1.3
+- Python 3.6
+- Anaconda
+- Pytorch 1.3
 
 
