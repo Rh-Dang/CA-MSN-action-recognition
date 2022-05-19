@@ -48,18 +48,18 @@ python seq_transformation.py
 
 ```bash
 # For the CS setting
-python main.py --network CA-MSN --train 1 --case 0
+python main.py --network CA_MSN --train 1 --case 0
 # For the CV setting
-python main.py --network CA-MSN --train 1 --case 1
+python main.py --network CA_MSN --train 1 --case 1
 ```
 
 ## Testing
 
 ```bash
 # For the CS setting
-python main.py --network CA-MSN --train 0 --case 0
+python main.py --network CA_MSN --train 0 --case 0
 # For the CV setting
-python main.py --network CA-MSN --train 0 --case 1
+python main.py --network CA_MSN --train 0 --case 1
 ```
 
 
