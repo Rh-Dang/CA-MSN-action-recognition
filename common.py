@@ -1,3 +1,5 @@
+# Copyright (c) 2022 Tongji University. All rights reserved.
+# Licensed under the MIT License.
 import torch.nn
 
 ###

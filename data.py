@@ -1,4 +1,4 @@
-# Copyright (c) Microsoft Corporation. All rights reserved.
+# Copyright (c) 2022 Tongji University. All rights reserved.
 # Licensed under the MIT License.
 from torch.utils.data import Dataset, DataLoader
 import os
